@@ -87,7 +87,7 @@ const Navbar = () => {
                 <Briefcase className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold text-[#0F172A] hidden sm:block">
-                Fouz Ki Dukaan
+                Rozgaar Connect
               </span>
             </Link>
 
